@@ -1,0 +1,7 @@
+.form-group *{
+    border-radius: 0;
+}
+
+.loginForm{
+    display: none;
+}
